@@ -1,0 +1,12 @@
+*{
+    font-family: Tahoma;
+   }
+   table{
+    width: 400px;
+    margin: 100px auto;
+   }
+   table th{
+    background: #66CCFF;
+    padding: 10px;
+    font-size: 18px;
+   }
