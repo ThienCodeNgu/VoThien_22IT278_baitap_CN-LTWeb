@@ -47,7 +47,8 @@ while( ($rows = mysqli_fetch_assoc($results))!= NULL )
 confirm('Ban co chac chan khong?');">xoa</a>
 </td>
 </tr>
-<?php } 
+<?php 
+} 
 mysqli_close($connect);
 ?>
 </table>
